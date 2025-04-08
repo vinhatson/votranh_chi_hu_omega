@@ -117,5 +117,4 @@ This project is released under the Apache License 2.0. See the LICENSE file for 
 **GitHub**: vinhatson (https://github.com/vinhatson)
 
 *Vô Tranh Omniverse LOEH Ω – Pushing the boundaries of AI with the ultimate intelligence of Chi Hư.*
-## Donate: 
-## TRC20: TLJsi4XKbFXZ1osgLKZq2sFV1XjmX6i9yD
+
